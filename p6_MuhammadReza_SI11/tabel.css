@@ -1,0 +1,25 @@
+
+.tabel1 {
+    font-family: sans-serif;
+    color: #444;
+    border-collapse: collapse;
+    width: 50%;
+    border: 1px solid black;
+    margin-top: 50px;
+}
+
+.tabel1 tr th{
+    background: #35a9db;
+    color: #fff;
+    font-weight: normal;
+}
+
+.tabel1 #alpukat1 td{
+    background-color: rgb(192, 226, 238);
+    color:black
+}
+
+.tabel1 #alpukat3 td{
+    background-color: rgb(192, 226, 238);
+    color: black;
+}
